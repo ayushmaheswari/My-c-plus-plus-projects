@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HOW TO USE BILL SOFTWARE  :-  first run the application named as billing then it will ask you for how many bill you want to print write the numberr of bill you want to
+print then it will option for the total no of product for billing first write the total no of product then enter line wise name number of unit and prize of indivisual 
+unit then enter tax if you want include tax plese enter tex in the (%) age if you want text enter 0. then enter the name of coustmer after you write the name coustmer 
+press enter and WOW the bill was printed
+
+
+bill file :- if you want acess your bill in future you can go to the file name as "bill" it is a notpad file in the same folder tit will give you as advantage of
+finding bill and inbuilt file it will show you a time date day and year also so it will be halpful for you store.
